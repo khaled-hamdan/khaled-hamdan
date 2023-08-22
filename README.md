@@ -16,7 +16,7 @@
 
 - [Google Cybersecurity Professional](https://coursera.org/share/67e5cb0dd7c478f1d7ec81079c3a40b8)
 - [Business Analysis Foundations](https://www.linkedin.com/learning/certificates/898bd49ac958cad2e38f784c865de83e3c8fd2af6e0d705979cf7bd88728f32a)
-- [Full Stack Development Track]
+- Full Stack Development Track
 
 <h2> 🤳 Connect with me:</h2>
 
