@@ -4,6 +4,10 @@
 
 - <b>Conducting a security audit</b>
   - [Botium Toys](https://github.com/khaled-hamdan/BotiumToys/tree/main)
+- <b>Apply Filters to SQL Queries</b>
+  - [Apply Filters to SQL Queries]( )
+- <b>File permissions in Linux</b>
+  - [File permissions in Linux]( )
  
     
 <h2> General Projects:</h2>
