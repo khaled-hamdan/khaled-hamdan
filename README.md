@@ -7,8 +7,7 @@
 - <b>[Update a file permissions in Linux](https://github.com/khaled-hamdan/F.P-Linux)</b>
 - <b>[Update a file through a Python algorithm](https://github.com/khaled-hamdan/U-Python)</b>
 - <b>[Incident handler's journal](https://github.com/khaled-hamdan/Incident-Journal/blob/main/Incident%20handler's%20journal%20.pdf)</b>
-- <b>[Incident report analysis]( )</b>
-- <b>[Vulnerability assessment report]( )</b>
+- <b>[Vulnerability assessment report](https://github.com/khaled-hamdan/Vulnerability-Assessment/blob/main/Vulnerability%20assessment%20report.pdf)</b>
  
     
 <h2> General Projects:</h2>
