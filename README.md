@@ -3,7 +3,7 @@
 <h2> CyberSecurity Projects:</h2>
 
 - <b>[Conducting a security audit](https://github.com/khaled-hamdan/BotiumToys/tree/main)</b>
-- <b>[Apply Filters to SQL Queries]( )</b>
+- <b>[Apply Filters to SQL Queries](https://github.com/khaled-hamdan/SQL-queries)</b>
 - <b>[Changing a file permissions in Linux]( )</b>
 - <b>[Update a file through a Python algorithm]( )</b>
 - <b>[Incident handler's journal]( )</b>
