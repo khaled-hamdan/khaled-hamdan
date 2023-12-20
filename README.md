@@ -17,6 +17,7 @@
 
 <h2> Certifications:</h2>
 
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/07ad37e4-369c-41f2-84bf-82b8b006f528/public_url)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/494144f8-6730-4017-9a03-8c5e763a668c/public_url)
 - [Business Analysis Foundations](https://www.linkedin.com/learning/certificates/898bd49ac958cad2e38f784c865de83e3c8fd2af6e0d705979cf7bd88728f32a)
 - [The Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/link/1qsdpcedm9s)
