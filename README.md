@@ -1,7 +1,9 @@
 <h1>Hi, I'm Khaled! <br/><a></h1>
 
 <h2> CyberSecurity Projects:</h2>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/KhaledHamdan1.png" alt="TryHackMe">
+
 - <b>[Conducting a security audit](https://github.com/khaled-hamdan/BotiumToys/tree/main)</b>
 - <b>[Apply Filters to SQL Queries](https://github.com/khaled-hamdan/SQL-queries)</b>
 - <b>[Update a file permissions in Linux](https://github.com/khaled-hamdan/F.P-Linux)</b>
